@@ -1,6 +1,6 @@
 # 🎨 Generador de Paleta de Colores 🌈
 
-![Static Badge](https://img.shields.io/badge/Paleta_de_Colores-1.0.0-red) ![Static Badge](https://img.shields.io/badge/Python-3.7-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/Pablo-Lopez-red?logo=superuser)
+![Static Badge](https://img.shields.io/badge/Paleta_de_Colores-1.0.0-red) ![Static Badge](https://img.shields.io/badge/Python-3.7-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/Pablo-Lopez-red?logo=egghead)
 
 Este proyecto analiza los colores de una imagen y genera una paleta de colores adecuada para la misma.
 
