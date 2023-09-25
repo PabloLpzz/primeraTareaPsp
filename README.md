@@ -1,5 +1,7 @@
 # 🎨 Generador de Paleta de Colores 🌈
 
+![Static Badge](https://img.shields.io/badge/Paleta_de_Colores-V.1.0.0-blue)
+
 Este proyecto analiza los colores de una imagen y genera una paleta de colores adecuada para la misma.
 
 ![Ejemplo de paleta de colores](https://htmlcolorcodes.com/assets/images/html-color-codes-color-palette-generators-hero.jpg)
